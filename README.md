@@ -1,4 +1,4 @@
-# OSSRep
-for oss hw
-Date : 2025.03.24.16
-Author : Simho Yuk
+# OSSRepo
+## for oss hw
+- Date : 2025.03.24.16  
+  - Author : Simho Yuk
