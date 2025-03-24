@@ -4,5 +4,3 @@
 - Author : Simho Yuk
 - Subject : OSS Practice  
 - Classroom : 다향관 129
-- Contents : Git & Github
-  - Git commands
