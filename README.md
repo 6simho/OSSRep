@@ -10,4 +10,5 @@
     - Git commands
 # OSSprac
 fetch & merge
-A
+A  
+B  
