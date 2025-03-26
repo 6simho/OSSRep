@@ -8,3 +8,6 @@
     - Git Basic
     - Git Workflow
     - Git commands
+# OSSprac
+fetch & merge
+A
