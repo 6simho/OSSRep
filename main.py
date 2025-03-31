@@ -1,1 +1,1 @@
-prit("Yuk")
+print("Yuk")
